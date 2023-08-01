@@ -1,0 +1,71 @@
+* {
+	border: none !important;
+}
+
+body {
+	background-color: black;
+}
+
+#revive {
+	width: 58px;
+	height: 56px;
+	background: url(asset/Classical_Skills_Effects.png) 0px 56px;
+	position: absolute;
+	top: 522px;
+	left: 70px;
+}
+
+#sonic-shock {
+	width: 58px;
+	height: 56px;
+	background: url(asset/Classical_Skills_Effects.png) -180px 56px;
+	position: absolute;
+	top: 522px;
+	left: 130px;
+}
+
+#flash {
+	width: 58px;
+	height: 56px;
+	background: url(asset/Classical_Skills_Effects.png) -58px 116px;
+	position: absolute;
+	top: 522px;
+	left: 188px;
+}
+
+#iceberg {
+	width: 58px;
+	height: 56px;
+	background: url(asset/Classical_Skills_Effects.png) -300px 116px;
+	position: absolute;
+	top: 522px;
+	left: 250px;
+}
+
+button:hover {
+	filter: brightness(80%);
+}
+
+#FOREST {
+	width: 320px;
+	height: 570px;
+	background: url(asset/Game_Gui.png) 0px 0px;
+}
+
+#more-feature {
+	width: 60px;
+	height: 60px;
+	background: url(asset/Game_Gui.png) -240px -685px;
+	position: absolute;
+	top: 520px;
+	left: 10px;
+}
+
+#PODAPOD {
+	width: 115px;
+	height: 120px;
+	background: url(asset/Primal_Dynamons.png) -115px -310px;
+	position: absolute;
+	top: 180px;
+	left: 170px;
+}
